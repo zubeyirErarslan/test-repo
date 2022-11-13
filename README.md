@@ -1,2 +1,2 @@
 # test-repo
-çalışma
+çalışma ..
